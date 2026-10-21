@@ -10,6 +10,10 @@
 
 ### [تحميل أحدث إصدار (APK)](https://github.com/nasradin/Waqadhni-Releases/releases/latest/download/waqadhni.apk)
 
+**أو امسح هذا الباركود بكاميرا هاتفك للتحميل المباشر:**
+
+![باركود تحميل وقّظني](https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=10&data=https%3A%2F%2Fgithub.com%2Fnasradin%2FWaqadhni-Releases%2Freleases%2Flatest%2Fdownload%2Fwaqadhni.apk)
+
 > جميع الإصدارات السابقة موجودة في [صفحة الإصدارات](https://github.com/nasradin/Waqadhni-Releases/releases).
 
 ## ✨ مميزات التطبيق
