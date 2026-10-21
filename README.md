@@ -47,7 +47,19 @@
 
 ## 💝 ادعم المشروع
 
-التطبيق مجاني بالكامل. إذا أفادك وتريد دعم استمرار تطويره، يمكنك التبرع بعملة **USDT** (على شبكة Ethereum — ERC20):
+التطبيق مجاني بالكامل. إذا أفادك وتريد دعم استمرار تطويره، يمكنك التبرع بعملة **USDT** على أيٍّ من الشبكتين التاليتين:
+
+### 1) شبكة TRON (TRC20) — رسوم تحويل شبه صفر ✅
+
+**عنوان المحفظة:**
+
+`THysG4vjQNcfjfBiJ8JeRaDzmdCzGJxkxy`
+
+**أو امسح هذا الباركود من تطبيق محفظتك:**
+
+![باركود التبرع USDT TRC20](https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=10&data=THysG4vjQNcfjfBiJ8JeRaDzmdCzGJxkxy)
+
+### 2) شبكة Ethereum (ERC20)
 
 **عنوان المحفظة:**
 
@@ -55,8 +67,8 @@
 
 **أو امسح هذا الباركود من تطبيق محفظتك:**
 
-![باركود التبرع USDT](https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=10&data=0x74605a4fcebe014da6ecbbae6c5be9ce3b5dcb70)
+![باركود التبرع USDT ERC20](https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=10&data=0x74605a4fcebe014da6ecbbae6c5be9ce3b5dcb70)
 
-⚠️ أرسل USDT على شبكة **Ethereum (ERC20)** فقط إلى هذا العنوان — الإرسال عبر شبكة أخرى قد يؤدي إلى فقدان المبلغ.
+⚠️ **مهم جدًا:** أرسل إلى كل عنوان على شبكته فقط — الإرسال عبر شبكة مختلفة عن شبكة العنوان قد يؤدي إلى فقدان المبلغ.
 
 شكرًا لدعمكم ❤️
